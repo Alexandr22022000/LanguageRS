@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:title="@string/settings"
+            android:id="@+id/item_settings"
+            android:icon="@mipmap/settings"
+            app:showAsAction="always"
+            android:orderInCategory="0"/>
+
+    <item
+            android:title="@string/copy"
+            android:id="@+id/item_copy"
+            app:showAsAction="never"
+            android:orderInCategory="1"/>
+
+    <item
+            android:title="@string/past"
+            android:id="@+id/item_past"
+            app:showAsAction="never"
+            android:orderInCategory="2"/>
+
+    <item
+            android:title="@string/hard_reset"
+            android:id="@+id/item_reset"
+            app:showAsAction="never"
+            android:orderInCategory="3"/>
+
+    <item
+            android:title="@string/about_item"
+            android:id="@+id/item_about"
+            app:showAsAction="never"
+            android:orderInCategory="5"/>
+
+</menu>

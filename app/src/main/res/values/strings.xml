@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LanguageRS</string>
+    <string name="company">RedStar</string>
+    <string name="about">Компания: RedStar. Разрабочик: Золотов Александр Александрович. Контакты: zol22222@mail.ru, vk/zol22. Данное приложение созданно для изучения возможностей IntelliJ IDEA.</string>
+    <string name="know_words">Изученные слова</string>
+    <string name="new_words">Новые слова</string>
+    <string name="learn_new_words">Учить новые слова</string>
+    <string name="learn_words">Слова на изучении</string>
+    <string name="learn">Учить</string>
+    <string name="ok">Ок</string>
+    <string name="back">Назад</string>
+    <string name="add">Добавить</string>
+    <string name="past">Резервная загрузка</string>
+    <string name="copy">Разаевное копирование</string>
+    <string name="about_item">Об афторе</string>
+    <string name="del">Удалить</string>
+    <string name="forgot">Забыл</string>
+    <string name="know">Знаю</string>
+    <string name="any">Другое слово</string>
+    <string name="you_sure">Вы уверены?</string>
+    <string name="you_really_sure">Вы уверены? Это действие нельзя отменить!</string>
+    <string name="savanna">Саванна</string>
+    <string name="learn_word">Изучение новых слов</string>
+    <string name="new_words_count">Количество слов в день:</string>
+    <string name="days_of_words">Количество дней повторения:</string>
+    <string name="words_of_game">Слов за игру:</string>
+    <string name="hp">HP:</string>
+    <string name="delay_setting">Задежка на одно слово:</string>
+    <string name="words">Words:</string>
+    <string name="start">start</string>
+    <string name="settings">Насторйки</string>
+    <string name="aplay">Приминить</string>
+    <string name="hard_reset">Резервный сброс</string>
+
+    <string-array name="acquire">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+</resources>
